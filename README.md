@@ -1,5 +1,5 @@
 # table-filter
-Bootstrap + JQuery based  HTML table filter plugin, You just need to pass the id of the table to tableFilter.filter('id of the table') method, on clicking of this button will open a bootstrap model containing the values of the table
+Bootstrap + JQuery based  HTML table filter plugin, You just need to pass the id of the table to tableFilter.filter('id of the table') method, on clicking of this button will open a filter popup
 
 <table id="test">
 		<tr>
